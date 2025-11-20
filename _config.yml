@@ -1,13 +1,13 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
-header:
-  image: /assets/images/banner-husky.jpg
+title: "Cindy Carbajal"
+name: "Profile for Cindy Carbajal"
+email: "cindy.carbajal0913@gmail.com"
+url: "https://ccarbajal13.github.io"
+baseurl: "/Cindy-Carbajal-Profile"
+repository: "ccarbajal13/Cindy-Carbajal-Profile"
+header: 
+  image: /assets/images/24-Cindy_Carbajal-0917-WD-53.jpg
 
 include:
   - _pages
@@ -37,12 +37,12 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  name   : "Cindy Carbajal"
+  avatar : "/assets/images/24-Cindy_Carbajal-0917-WD-53.jpg"
+  bio    : "My name is Cindy Carbajal and I am a Public Health major student on a pre-med track at Northern Illinois University"
   location: "DeKalb, Illinois"
-  github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  github : "ccarbajal13"
+  linkedin: 
   email  : 
 
 
