@@ -7,7 +7,7 @@ url: "https://ccarbajal13.github.io"
 baseurl: "/Cindy-Carbajal-Profile"
 repository: "ccarbajal13/Cindy-Carbajal-Profile"
 header: 
-  image: /assets/images/24-Cindy_Carbajal-0917-WD-53.jpg
+  image: "/assets/images/24-Cindy_Carbajal-0917-WD-53.jpg"
 
 include:
   - _pages
