@@ -70,6 +70,7 @@ I was also surprised to see how the formatting syntax established by Markdown ca
 
 <details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
+  
 <h2 id="publications">Publications</h2>
 Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
 
