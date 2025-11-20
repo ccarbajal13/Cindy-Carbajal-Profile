@@ -8,7 +8,10 @@ permalink: /portfolio/index.html
 *The following publications are fictional, and are only intended for this job market website demo.*
 
 # Research
+
 <details markdown="1"><summary>GitHub and Markdown</summary>
+
+
   
 # Blog Post 2- GitHub and Markdown
 
@@ -51,7 +54,11 @@ Personally, I have never used Markdown or Git prior to starting this seminar. I 
 After learning more about Markdown and Git, the thing that surprised me the most about each one is how **_universal_** they both are. Both Markdown and Git allow for extensive collaboration to take place between individuals who may not even know each other face-to-face. It was shocking to me when I finally understood all the ways in which they center around promoting teamwork. 
 
 I was also surprised to see how the formatting syntax established by Markdown can alter normal text to appear formatted, as if it were in a Word document. I didn’t realize that there were distinct ways in which text could be written to produce a format that is easy to read and appealing to look at. As a student, I’ve only ever utilized **Word** or **Google Docs** to create a document containing text. Overall, I’m excited to continue discovering all of what Markdown and Git have to offer. 
+
+
 </details>
+
+
 
 <details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
