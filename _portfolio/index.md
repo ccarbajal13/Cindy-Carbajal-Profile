@@ -8,8 +8,9 @@ permalink: /portfolio/index.html
 *The following publications are fictional, and are only intended for this job market website demo.*
 
 # Research
-
-<details markdown="1"><summary>GitHub and Markdown</summary>
+<details markdown="1">
+  
+<summary>GitHub and Markdown</summary>
 
 
   
