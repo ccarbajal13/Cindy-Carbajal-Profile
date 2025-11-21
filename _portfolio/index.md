@@ -20,6 +20,7 @@ permalink: /portfolio/index.html
 Since first starting to learn about Markdown and Git, I feel as though I have truly expanded my knowledge in a way that better comprehends what each one does and how they relate to one another. While I am still trying to improve my skills and understanding regarding how it all works, I am much more aware of this new world of collaboration and technology. I hope to achieve a level of skill that allows me to feel comfortable when working with such tools and technology. Through these new skills I will be able to develop in a professional way that demonstrates I am open to learning new things and can collaborate in an efficient way with those around me. 
 
 ### Markdown: 
+
 <img width="208" height="128" alt="image" src="https://github.com/user-attachments/assets/1b681772-deb0-4339-b629-f24d5f5e3112" />
 
 - Markdown to me is comparable to a language that can be utilized to format text. 
@@ -32,6 +33,7 @@ Since first starting to learn about Markdown and Git, I feel as though I have tr
 
 
 ### Git: 
+
 <img width="389" height="129" alt="image" src="https://github.com/user-attachments/assets/922dddfa-1cbc-419a-af9f-426061f5e32e" />
 
 
