@@ -61,8 +61,47 @@ I was also surprised to see how the formatting syntax established by Markdown ca
 
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>Exploring a Repository</summary>
+  # Blog Post 3: Exploring a Repository 
+
+## Selected Repository: _Readest_ 
+
+### How I Selected the Repository: 
+
+When looking for a project to select for this assignment, I was a bit nervous about being able to find one that fit my interests. I didn't realize just how many projects exist through _Github_ and how interesting they all are in their own way. Before searching for a repository, I thought about what my interests are and what type of project would best align with them. Some examples of these interests include...
+
+- Reading 
+- Online/mobile games
+- Interactive media 
+
+Personally, I feel lucky to have stumbled across the project known as _**Readest**_. It is described as being an open-source ebook reader that allows for immersive reading experiences. Along with this, it offers a variety of features that readers are able to access through different platforms. This is all in efforts to create a truly exceptional reading experience. Some of the tools and features _**Readest**_ offers are listed below. 
+
+- **Translation services**
+- **Text-to-Speech support** 
+- **AI-Powered summarization**
+- **Handwriting annotations**
+- **Audiobook support**
+- **Library Management**
+- **and more!** 
+
+### Structure: 
+
+When I first discovered **_Readest_,** it was a bit overwhelming trying to navigate through it. This is likely due to it being the first time I've ever really been exposed to and explored a far more developed project. I'm not exactly sure why, but I thought that it would have had far more branches than it does. There is currently only one branch that is open; _the main branch_. It's interesting to see how significantly developed the project is. Based on its structure, it does appear that the project is being continuously updated and improved though.
+
+ From looking at the repository's issues, it seems a large portion of them are attempting to address and fix bug issues. Along with that, they are also focused on adding or improving features that would be beneficial to readers who enjoy and use the project. Overall, I found the structure to be more clear after a little while. Everything also seems to be clearly labeled, allowing for collaboration to be seamless. 
+
+### Community: 
+
+The community on **_Readest_** appears to be one that has the best interest of the project in mind. It appears to me that everyone is willing to help one another. Within the discussion section, people will often communicate with one another fairly quickly in order to address any questions or concerns. Again, it appears that those working on this project are very engaged and dedicated to its success. This kind of collaboration is nice to see. Prior to learning about Github, I didn't know teamwork could be this accessible, even if individuals are in two different regions of the world. 
+
+### Contribution Process: 
+
+When opening **_Readest_**, there is a pop-up message that appeared at the top of my screen regarding contributions. The text states that if one wants to contribute to the project, there are contributing guidelines that can help an individual to do so. Ensuring that everyone is on the same page when it comes to contributions is extremely important to the integrity and safety of a project. By reading the guidelines, one can steer away from potentially causing an issue. 
+
+From what I can tell, it appears as though there are a number of contributions going on through the issues tab. There are a total of 88 issues, with most of them being labeled as an enhancement to the project. Overall, I believe I would have to develop my skills a lot more in order to be able to make a contribution to **_Readest_**. It seems to be a bit too advanced for my current skillset, but I did have a fun time delving into its contents and learning what it is all about! It seems like a great project with a lot to offer to its users. I'm even interested in implementing it into my reading habits! 
+
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/00c243dc-ded9-4072-b542-47318a61a267" />
+
 </details>
 
 <details markdown="1">
