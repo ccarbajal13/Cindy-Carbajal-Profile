@@ -8,6 +8,31 @@ permalink: /portfolio/index.html
 *The following publications are fictional, and are only intended for this job market website demo.*
 
 # Research
+
+<details markdown="1">
+  
+  <summary>Discovering Open Source</summary>
+  
+  # Blog Post 1- Discovering Open Source
+
+## What is Open Source?
+When discussing open source projects, it is crucial to mention their main feature. More specifically, ****open source is when projects and their code is made readily available to anyone who wishes to inspect or contribute to the project****. In other words, open source allows for materials to be readily accessible to anyone. This aids in facilitating collaboration amongst individuals who are interested in making a contribution to certain projects.
+
+<img width="1200" height="488" alt="image" src="https://github.com/user-attachments/assets/2a5bec1a-5e16-4d44-b84c-e46387da6be3" />
+
+## What Surprised Me?
+Honestly, I knew nothing about open source prior to our first day of class, so all of this new material has been very surprising. I wouldn’t consider myself adept when it comes to working with computers, coding, etc., but I hope to make progress throughout the course. 
+## Which Well-known Companies and Projects Use Open Source?
+Some companies that I imagine use open source include *Google* and *Microsoft*. Open source allows for efficient collaboration to take place, which is especially vital for the large and complex projects likely conducted by larger companies, like Microsoft.
+- [Microsoft](https://opensource.microsoft.com/)
+- [Google](https://opensource.google/)
+
+## Why Does it Matter?
+Through open source, innovation is allowed to transpire as individuals with varying backgrounds and skills are allowed to input valuable features and knowledge into projects. This type of collaboration fosters a community that can work together to create meaningful material. These types of projects also promote flexibility, seeing as though anyone can work on it in a manner and place that is convenient for them. Overall, open source aids in ****minimizing barriers, promoting accessibility, and facilitating collaboration**** in order to develop technological advancements and innovations. 
+
+</details>
+
+
 <details markdown="1">
   
 <summary>GitHub and Markdown</summary>
@@ -106,9 +131,183 @@ From what I can tell, it appears as though there are a number of contributions g
 
 </details>
 
+
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>Reveal.js</summary>
+  # Reveal.js: My First Deep Dive into an Open Source Project
+
+<img width="1338" height="431" alt="Image" src="https://github.com/user-attachments/assets/e127f068-d54e-4644-badc-9e2e485607c0" />
+
+## Structure of Reveal.js
+
+_After delving a bit further into _Reveal.js_, I came to realize what a powerful tool it is. From all of the Github repositories I have come across, this repo is definitely one of the most intriguing. It is essentially providing an alternative way to create online presentations._
+
+_Reveal.js_ is structured as an open-source project that is centered around an index.html file. Each section within this file will represent a different slide within a presentation. Different kinds of themes are available through this project by allowing users to be able to customize certain features of their slides. Dynamic features and plugins are also main components of Reveal.js that allow for certain customizations to be implemented. 
+
+ More specifically, the term **js** in its name is in reference to its core library being in **JavaScript**. Javascript aids in handling transitions, slide orientation, and other controls related to one's presentation. 
+- **JavaScript:** Computer programming language that is mainly use for creating dynamic content on websites. 
+
+- **Commonly Used Tools that Reveal.js Mimics:** 
+    - PowerPoint
+    - Slides
+    - Keynote
+
+## What is Reveal.js for? 
+
+To more clearly reiterate, _Reveal.js_ is an open-source project that can be used to create engaging presentations through its various features and tools. It is different from softwares like **PowerPoint** due to the fact that you can create presentations entirely on a web browser. _Reveal.js_ provides an accessible and engaging way to create presentations without having to worry about spending money on a subscription. These presentations can also be easily shared with others. 
+
+Overall, _Reveal.js_ demonstrates just how powerful and useful open-source project can be, especially since they provide **free** access to presentation tools that often require some kind of purchase or subscription. 
+
+## What I Found Interesting: 
+
+What I find most interesting about Reveal.js and the way it is handled, is the fact that it is all so accessible. It truly provides an impressive alternative to other presentation programs. On Github, it was also interesting to see how well-maintained the project is, with individuals collaborating on a number of different levels. 
+
+While there is a lot of information to navigate through, the project is also well-organized. The **README** file of the project provides a useful overview and guide on how to get started using Reveal.js and all the features it has to offer. As for the activity within the project, it seems as though individuals are quite active, with the most recent issue being from two days ago. It appears that most of these issues are centered around improving the overall function of the project, since it already has a strong foundation to lay on. 
+
+- **Slide From Demo Presentation:** 
+
+<img width="3166" height="1604" alt="Image" src="https://github.com/user-attachments/assets/22432a66-9252-46ec-9545-99a8863bbf76" />
+
+I would like to further explore this project and develop a deeper understanding of how I can utilize it. By doing so, I can integrate its use into my everyday life when the need for a presentation arises. It would also be interesting to see how the tools it has to offer compare and contrasts to other presentation programs that we well-known and widely utilized by many individuals and large corporations. 
+
+## Possible Contributions: 
+
+**_Reveal.js_** appears to be a very well-organized and highly developed project. I think it would be amazing if I were able to get to a skill level that would allow me effectively contribute to the project. Currently, I do not believe I am at that point yet. I would hate to harm the integrity of this project in any way, so for now I think it would be best to steer clear from making any changes. 
+
+Overall, I really enjoyed learning about this project. I had no idea existed prior to our last class. I can see how it can be a bit overwhelming at first to try to learn and navigate all of its different components, but I think it provides an excellent way to create and collaborate. Before I consider contributing to _Reveal.js_, I would like to become more familiarized with how to use it to create a presentation. I might try to create a presentation for a club that I am a part of through it. This will allow me to explore and learn more about its features! 
+
+</details>
+
+
+<details markdown="1">
+  <summary>Ownership, Access, and Innovation</summary>
+  # Ownership, Access, and Innovation: _What I Learned About Licensing_
+
+## Reflection: 
+
+Prior to this course, I knew very little about licensing and how it impacts open-source projects. Honestly, I hadn't given much thought to it until now. However, I see now how important licensing is and the ways it shapes the future of a project. 
+
+_**GPL:**_ When it comes to the GPL license, the main goal is to keep the project and other projects based off it, free and open-source. This ensures that everyone has access. So, if a project contains GPL-licensed code, must also be distributed using the same GPL license. It can be said that this type of licensing is a bit more restrictive in comparison to other licenses, such as the MIT one. 
+
+_**MIT:**_ The MIT license can be defined as being very permissive. It allows users to have free-range of code and projects in the way they may see fit. Individuals can copy, alter, and distribute content with very minimal requirements. Those who use projects with this type of license simply have to credit the original work, and provide notice of the original copyright. Overall, the MIT license is far more open and malleable than the GPL license. 
+
+### When To Use GPL vs. MIT:
+
+| GPL | MIT | 
+|---|---|
+| GPL can be used when a project wants to maintain free and open-source| MIT can be used when trying to maximize the use of the code |
+
+## Tetris Movie
+
+Unfortunately, I was not present to watch the _**Tetris**_ movie in class. However, I did find a summary that highlights the main points of the movie. Based on my general idea of the movie, the movie _**Tetris**_ demonstrates the complexity of licensing and how it influences the distribution of projects. While one person may have created the game, the project did not just belong to the creator. It was distributed and sold in a number of ways that created a difficult situation during the time, due to the political climate. 
+
+It's licensing actually led to intense conflicts. Overall, the movie demonstrated that the world of ownership and distribution is far more complex than I imagined. I believed it was solely the creator that had all the say in how the project was handled, but it proves to be far more intricate than that. 
+
+## NIU's Approach to IP, Patents, and Tech Transfer: 
+
+After learning a bit about NIU's approach, I can say that it was interesting to understand how NIU manages intellectual property, patents, and tech transfer. It seems as though NIU holds ownership rights to certain projects that are created by faculty and staff. From [NIU's IP and Innovations Website](https://www.niu.edu/divresearch/innovation/technology-transfer/intellectual-property.shtml), it seems that creators are compensated for their work. 
+
+Overall, it seems that NIU is focused on protecting creator's and their work by managing how and when the public can use developed projects. This aids in fostering a community on campus that promotes innovation. 
+
+## Licensing- Empowers and Complicates:
+
+When it comes to licensing, I believe there are a wide-array of instances in which its use may empower or complicate things. It can aid in empowering innovation when it comes to protecting creators and the original work from becoming corrupted. This allows the innovator to continue developing their project without having to fear that it will be compromised. Along with this, licensing also establishes clear regulations that give structure to not only the project, but also the community it is a part of. 
+
+However, licensing can also complicate innovation. At times, conflict or complications can arise if code with different licensing is trying to be combined. The restrictions that are set in place thus hinder further collaboration and innovation of these projects. Licensing may also pose a complex atmosphere that some may not understand how to navigate. 
+
+## Common Voice License: 
+
+Based on the Github repository, it appears as though the repo has been released under _Mozilla Public License 2.0_. Similar to a GPL license, the MPL 2.0 is also a **copyleft license**. So while the project is free and open-source, there are some restrictions when it comes to distributing the code. 
+
+<img width="1024" height="515" alt="Image" src="https://github.com/user-attachments/assets/e0187dac-095a-4198-9a04-cfbd19a0e918" />
+
+</details>
+
+
+<details markdown="1">
+  <summary>Global Hack Week</summary>
+  # _MLH Global Hack Week:_
+
+<img width="1200" height="630" alt="Image" src="https://github.com/user-attachments/assets/13042153-c09d-4298-85ef-eb0122715195" />
+
+## What I Have Learned: 
+
+Honestly, I feel as though I have learned so much from [Global Hack Week](https://ghw.mlh.io/) and its community of participants. I have a new-found sense of appreciation for the world of _hacking_ and all it has to offer. I specifically got involved in _**GHW**_ through a mini-event and a workshop. These activities were specifically focused on the following topics: 
+- **MQTT + IoT with Python**
+- **Typeracer Mini Event**
+
+Honestly, the workshop event involving _Python_ was a bit confusing at time, but it also allowed me to expand my understanding of all the possibilities things like coding have to offer. As someone who is new to this realm of knowledge, it is really intriguing to learn from individuals like _Cecilia_ and _Buly_ from MLH GHW that are so passionate. 
+
+From the **Typerace** mini event, I learned that my average typing speed is about 67 words per minute. This isn't too bad, but I would like to improve my speed and accuracy. Overall, it was an entertaining event filled with laughter and friendly competitiveness. 
+
+As for the **MQTT + IoT Python** workshop, I learned what each of the abbreviations mean and how they relate to programming language known as _Python_. It was fascinating to see how Buly configured everything he needed to in order to be able to control a circuit that turns a lightbulb on and off. 
+
+## Contributions: 
+
+During both the mini-event and workshop, I tried to contribute and remain engaged as much as possible. I participated in each of the challenges involved in the mini-event competition and had fun along the way. I consistently remained in second place, behind another participant with a typing speed of **_98 words per minute_**! 
+
+In the workshop, I was made sure to ask questions throughout the session to ensure that I was grasping the main ideas of what was happening. While it was a bit challenging to contribute in any other way, I remained engaged in the content throughout the session. 
+
+All in all, I feel like I was able to connect a number of individuals and learn from their and their own experiences. Many people within this community are so willing to help others out, and that is quite nice to see. I was a bit intimidated by everyone's expertise at first, but I soon realized that everyone is very welcoming. 
+
+## Connections: 
+
+ Through _**Global Hack Week**_, I was able to connect with a number of different individuals, all with distinct backgrounds. Cecilia and Buly were both exceptional hosts who brought a lot of energy to the events. They made sure to interact with everyone and answer all questions they were presented with. I feel fortunate to have been able to connect with them. An interesting fact about Buly is... **he's never seen snow**! As someone who has lived in Illinois most of my life, I am far too familiar with this form of precipitation. 
+
+I did also have some other interactions with participants, but mainly with the two hosts of the events. I am glad to have had such positive experiences through Global Hack Week. They allowed me to connect with individuals who live in different parts of the United States, but also with those with live in different regions of the world! 
+
+## View of Open Source Collaboration: 
+
+My experiences through **_GHW_** has demonstrated and reinforced the idea of how powerful open source collaboration can be. People from all different parts of the world can come together and work on the same project. Not only that, but open source collaboration fosters and promotes innovation in numerous ways. A person can take their specific interests and create so much through open source projects and collaboration. 
+
+While prior to this course I had no knowledge of open source projects, it has been a rewarding and interesting experience learning more all about it. Participating in _**GHW**_ was definitely something that has exposed me to a wonderful community that is friendly and welcoming. 
+
+
+</details>
+
+
+<details markdown="1">
+  <summary>Non-Code Contributions</summary>
+  # Exploring Non-Coding Contributions
+
+## _What Counts as Contribution in Open-Source?_
+
+In regards to open-source projects, what counts as a contribution can be a wide-array of things. It isn't necessarily about completing a task in a specific way, but rather about putting in the effort to add something to a project in some way. Whether it be through coding, or non-coding formats, contributions can still be made. Some examples of what a contribution can be include: 
+- Reporting a bug issue 
+- Fixing a bug 
+- Testing features 
+- Facilitating a discussion
+
+It is evident that are multiple ways in which a contribution can be made. It's simply about finding a project that is interesting, and then deciding what kind of involvement one wishes to have within the group. 
+
+## _My Thoughts on the Value of of Code and Non-code Contributions:_
+
+Both code and non-code contributions are essential to the **_development_** and **_enhancement_** of open-source projects. While these two forms of contribution may be different from one another in some ways, they are also similar. They both allow for contributions to be made that help drive a project forward. Open-source collaboration is all about having multiple individuals come together to work toward a common goal. Distinct skill-sets and forms of contribution are thus necessary for a project to be well-organized and operational. 
+
+Overall, they are both extremely valuable to the world of collaboration. If only certain types of contribution were deemed valuable, there would not be a strong sense of community between those working on an open-source project together. It is critical to recognize the importance of both, as they each have unique characteristics that make them useful. 
+
+## _How Diagrams Help Clarify Workflows:_ 
+
+Diagrams are a powerful visual tool that allow information to be share in an intriguing and creative way. They can often help individuals better comprehend detailed and complex topics. Diagrams essentially allow for a detailed and large project or idea to be broken down into its basic components. This allows individuals to better understand the **big picture**.
+
+I oftentimes feel like diagrams really help put things into perspective. By having visuals that show how individual components are connected to one another, I can begin to understand a concept more readily. Overall, visuals are a great way to facilitate effective communication amongst all contributors. 
+
+## _Communication and Collaboration:_
+
+By maintaining an open and welcoming community tone, individuals are able to effectively collaborate in a way that is respectful and meaningful. A lack of communication will not allow collaboration to take place. This ultimately leads to a non-code contributions being unsuccessful. Both are essential for establishing a good rapport between collaborators that are attempting to create a project. 
+
+For communication and collaboration to occur successfully, contributors must follow established guidelines, provide detailed documentation, share changes with other, and double-check to make sure a change can be made. If none of these practices are implemented, it can be very difficult for community members to keep up with one another and the changes they are trying to make. This ultimately leads to confusion and a lack of progression in the development in the project. 
+
+## _Non-Code Contributions I Found:_ 
+
+Based off of what I have looked into, it seems like some potential non-contributions that I can make, involve **_making improvements to the documentation of a project._** By enhancing the layout and details of certain files, I can contribute toward making the project more accessible and appealing to other people. 
+
+Along with this, I could also contribute by doing translations. One of the ways in which non-code contributions can be made is through **_translating text_** from one language to another. This seems like something I could possibly do, in hopes of making the project more accessible to other individuals. 
+
+As for a project that I am interested in making a non-code contribution to, I haven't found a specific one quite yet. While I have explored some, I haven't decided which one would align best with my interests and current skillset. However, I will continue to look into projects that I can possibly make a non-code contribution to. 
+
+<img width="2160" height="1216" alt="Image" src="https://github.com/user-attachments/assets/78510565-7567-4f31-8ceb-22ae12577385" />
+
 </details>
 
 <details markdown="1">
@@ -116,20 +315,6 @@ From what I can tell, it appears as though there are a number of contributions g
   Blog Contents
 </details>
 
-<details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
-</details>
-
-<details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
-</details>
-
-<details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
-</details>
   
 <h2 id="publications">Publications</h2>
 Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
