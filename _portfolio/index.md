@@ -317,7 +317,11 @@ As for a project that I am interested in making a non-code contribution to, I ha
 
   
 <h2 id="publications">Open-Source Project Contribution</h2>
-Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
+Link to Repository: https://github.com/ioncakephper/markdown-cleaner-cli
+
+Link to Pull Request: https://github.com/ioncakephper/markdown-cleaner-cli/pull/26
+
+ According to the original issue, while the README.md does have the placeholder for a banner, one has not been properly integrated. It is essentially being asked for a contributor to add a repository banner to the file in order to enhance the visual appeal of the project. My pull request includes a banner that I designed to fit the overall mission of the repository. 
 
 
   
