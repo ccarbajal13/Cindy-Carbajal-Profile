@@ -7,14 +7,10 @@ permalink: /links/
 ---
 
 # Northern Illinois University Links
-- [NIU Department of Economics](https://www.niu.edu/clas/econ/)
-- [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
-- [Blackboard Course Management System](https://webcourses.niu.edu/)
-- [NIU University Writing Center](https://www.niu.edu/academic-support/get-help/writing-center/index.shtml)
-- [NIU Office of the Ombudsperson](https://www.niu.edu/ombuds/index.shtml)
-- [71 North Pulse (Innovation Studio Newsletter)](https://71north.beehiiv.com/)
+- [NIU Today](https://niutoday.info/2025/09/04/cindy-carbajal-honored-as-nius-newman-civic-fellow/)
+- [NIU Huskie Spotlight](https://www.niu.edu/spotlight/student/carbajal.shtml)
+- [NIU CURE Research Project](https://huskiecommons.lib.niu.edu/studentengagement-cureposters/13/)
+- [NIU Student Advisory Committee](https://www.niu.edu/provost/about/student-advisory.shtml)
 
 # Other Links of Interest
-- [NIU Football](https://niuhuskies.com/sports/football)
-- [NIU Men's Basketball](https://niuhuskies.com/sports/mens-basketball)
-- [NIU Women's Basketball](https://niuhuskies.com/sports/womens-basketball)
+- [NIU College of Health and Human Sciences](https://www.chhs.niu.edu/)
