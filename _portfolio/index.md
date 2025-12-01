@@ -5,7 +5,6 @@ header:
 permalink: /portfolio/index.html
 ---
 
-*The following publications are fictional, and are only intended for this job market website demo.*
 
 # Research
 
@@ -322,10 +321,3 @@ Link to Repository: https://github.com/ioncakephper/markdown-cleaner-cli
 Link to Pull Request: https://github.com/ioncakephper/markdown-cleaner-cli/pull/26
 
  According to the original issue, while the README.md does have the placeholder for a banner, one has not been properly integrated. It is essentially being asked for a contributor to add a repository banner to the file in order to enhance the visual appeal of the project. My pull request includes a banner that I designed to fit the overall mission of the repository. 
-
-
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:** Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
