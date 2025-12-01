@@ -9,7 +9,7 @@ header:
 <img src="https://github.com/ccarbajal13/Cindy-Carbajal-Profile/blob/master/assets/images/24-Cindy_Carbajal-0917-WD-53.jpg?raw=true" width="50%" hspace="20" align="right">
 
 
-Hello there! Welcome to my professional profile that highlights valuable information related to my academic and professional development. My name is Cindy Carbajal and I a public health major at Northern Illinois University. More specifically, I am a public health major on the pre-med track. 
+Hello there! Welcome to my professional profile that highlights valuable information related to my academic and professional development. My name is Cindy Carbajal and I a public health major and Honors student at Northern Illinois University. More specifically, I am a public health major with a biology minor on the pre-med track. 
 
 I am originally a transfer student from McHenry County College, where I earned an Associate of Science degree. Currenlty, I am a senior at NIU, entering my last semester before I graduate. How exciting! 
 
