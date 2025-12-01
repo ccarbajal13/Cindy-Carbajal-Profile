@@ -6,18 +6,13 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/ccarbajal13/Cindy-Carbajal-Profile/blob/master/assets/images/24-Cindy_Carbajal-0917-WD-53.jpg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+Hello there! Welcome to my professional profile that highlights valuable information related to my academic and professional development. My name is Cindy Carbajal and I a public health major at Northern Illinois University. More specifically, I am a public health major on the pre-med track. 
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I am originally a transfer student from McHenry County College, where I earned an Associate of Science degree. Currenlty, I am a senior at NIU, entering my last semester before I graduate. How exciting! 
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
-
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
-
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+Originally, I am from a very small town located close to the Illinois-Wisconsin border. One fun fact that always surprises people, is that my high school graduating class was only composed of 16 students! After my high school graduation, I decided to stay close to home and attend community college while also learning to manage obtaining higher education. Being a first-generation student, there were and continue to be obstacles that present themselves in front of my path. However, I do my best to overcome and conquer them. Now, as a senior at NIU, I am beginning my next step in my academic career, which is studying for the MCAT and applying to medical school. 
