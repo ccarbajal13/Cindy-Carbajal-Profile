@@ -6,15 +6,17 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
 
-### Campus Office
+### Personal Information
 Northern Illinois University  
-Out on the Field  
+College of Health and Human Sciences  
 DeKalb, IL 60115-2825  
+Phone #: 815-245-1514
 
-###### Office Hours:  
-by appointment
+###### Availability:  
+Monday-Friday by Appointment
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+School Email: z2012328@students.niu.edu
+
+Personal Email: cindy.carbajal0913@gmail.com
