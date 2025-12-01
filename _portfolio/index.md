@@ -316,7 +316,7 @@ As for a project that I am interested in making a non-code contribution to, I ha
 </details>
 
   
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Open-Source Project Contribution</h2>
 Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
 
 
